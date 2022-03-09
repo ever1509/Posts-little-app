@@ -7,6 +7,7 @@ using Posts.API.Domain;
 
 namespace Posts.API.Controllers
 {
+    
     [Route("api/posts")]
     [ApiController]
     [EnableCors("Posts")]
